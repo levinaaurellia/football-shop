@@ -51,3 +51,4 @@ Referensi:
 2. https://blog.jetbrains.com/pycharm/2023/11/django-vs-flask-which-is-the-best-python-web-framework/
 3. https://opensource.com/article/18/8/django-framework
 4. https://www.geeksforgeeks.org/blogs/why-django-framework-is-best-for-web-development/
+5. https://www.djangoproject.com/start/overview/
